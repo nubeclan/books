@@ -1,6 +1,6 @@
 # api-rest-laravel-demo-books
 
-* una Apí REST
+* una Apí REST Laravel
 * Trabaja con una base de datos mysql.
 
 ## Desarrollador
